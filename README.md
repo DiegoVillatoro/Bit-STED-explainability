@@ -38,5 +38,5 @@ A simple test of the process to merge saliency maps from an orthophoto is develo
 
 <img width="2475" height="4768" alt="mergingProcess" src="https://github.com/user-attachments/assets/ed062b17-2c90-443e-9040-2cae1fb8862f" />
 
-In addition, the computed features per agave are provided in csv files for each orthomap to run statistical framework on Jupyter notebok "Explainability-VIT-CX-orthomap-statistic-test"
+In addition, the computed features per agave are provided in csv files in the folder "Features" for each orthomap to run statistical framework on Jupyter notebok named "Explainability-VIT-CX-orthomap-statistic-test" located inside "transformer_object_detection folder"
 
