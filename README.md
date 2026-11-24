@@ -2,7 +2,8 @@
 
 Explaining an Object Detection Model for Screening Anomalies
 
-Related paper: <b>[Explainable Transformer-Based Anomaly Screening in Agave Crops](https://authors.elsevier.com/a/1ltmucFCSf6XG) </b>
+Related paper: <b>[Explainable Transformer-Based Anomaly Screening in Agave Crops](https://doi.org/10.1016/j.compag.2026.112560) </b>
+
 
 A useful paper on the used model for detection and then for explanation can be consulted in <b>[Bit-STED](https://www.sciencedirect.com/science/article/abs/pii/S0168169925011536) </b>.
 
