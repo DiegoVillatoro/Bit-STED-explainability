@@ -15,6 +15,9 @@ The data of the images are TIF files with the multispectral data of the image.
 
 The image size is 224x224.
 
+## Dataset
+The raw dataset used for the experimentation can be consulted at https://doi.org/10.6084/m9.figshare.25326349
+
 ## General overview of the followed methodology.
 
 <img width="3470" height="783" alt="general" src="https://github.com/user-attachments/assets/849103fe-a779-4fd0-843f-232b5260fe27" />
